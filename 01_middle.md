@@ -1,6 +1,6 @@
 #### middle school english words
 
-##### 25.01.12
+##### 26.01.12
 
 refuse: refuse help、refuse consent、refuse request
 
