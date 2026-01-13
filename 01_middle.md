@@ -32,20 +32,20 @@ colonial education
 
 migrate
 
-solve
+solve: solve a problem
 
-laughter
+laughter: loud laughter
 
-noise
+noise: make noise
 
-state
+state: in state、state affair
 
-normal
+normal: normal mode
 
-imagine
+imagine: imagine doing sth
 
-nerve
+nerve: nerve cell
 
-purpose
+purpose: main purpose
 
 outer
