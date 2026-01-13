@@ -27,3 +27,25 @@ struggle with
 bar none
 
 colonial education
+
+##### 26.01.13
+
+migrate
+
+solve
+
+laughter
+
+noise
+
+state
+
+normal
+
+imagine
+
+nerve
+
+purpose
+
+outer
