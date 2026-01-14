@@ -49,3 +49,25 @@ nerve: nerve cell
 purpose: main purpose
 
 outer
+
+##### 26.01.14
+
+track: on track
+
+hire: for hire, on hire
+
+adult: adult population
+
+swap: swap file
+
+scream: scream aloud
+
+pollution: noise pollution
+
+bumpy: bumpy road
+
+sickness
+
+painful: painful lessons, painful process
+
+fond: be fond of, font dream
