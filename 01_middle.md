@@ -137,3 +137,41 @@ His right leg is prosthetc.
 pitch: low pitch, pitch in
 
 The bird sings in a high-pitched voice.
+
+##### 26.01.18
+
+spoiled
+
+The spoiled boy gets whatever he wants from his parents.
+
+invent: invent story, invent excuse
+
+Mr Bell invent the world's first telephone.
+
+science: social science, science and technology
+
+Physics and Chemistry are two different areas of science.
+
+text: text message, text editor
+
+There should not be too much text in children's books.
+
+appointment: make a appointment, by appointment
+
+I made a telephone appointment with my doctor.
+
+excuse: excuse me, make an excuse
+
+He made up a stupied excuse for not doing homeword.
+
+frightened: fightened to death, be frightened to do
+
+The boy frightened by the sudden noise outside the window.
+
+insist: insist upon
+
+His mother insis that he should put on his warm pants.
+
+entrance: entrance exam, entrance fee
+
+Children ara gathering at the entrance of the park.
