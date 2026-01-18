@@ -4,27 +4,51 @@
 
 refuse: refuse help、refuse consent、refuse request
 
+The boy is refusing to eat vegetables.
+
 runner
+
+This female runner has won the race.
 
 teenager
 
+Teenagers is always full of energy.
+
 polite: be polite to、polite society
+
+The polite girl gave her seat to an old lady.
 
 speed: at hight speed、speed limit、speed up、wind speed
 
+The train is traveling at full speed.
+
 receive: receive an invitation、receive treatment、receive guest
+
+I revceive a thank-you note from my good friend.
 
 bite: bite at、bite off
 
+Thee little dog is biting its toy.
+
 respect: with respect to、show respect
+
+They should respect to each other by bowing.
 
 discover: discover talent、discover truth
 
+The expert discovered a vase from the Tang dynasty.
+
 muscle: muscle fiber、muscle strength
+
+Ladies with muscle can be pretty.
 
 struggle with
 
+Why do enducated students in china struggle with english?
+
 bar none
+
+The food is deliciouse bar none.
 
 colonial education
 
