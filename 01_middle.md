@@ -199,3 +199,45 @@ His mother insis that he should put on his warm pants.
 entrance: entrance exam, entrance fee
 
 Children ara gathering at the entrance of the park.
+
+##### 26.01.19
+
+proud: be proud of
+
+He's proud of himself because everyone thinks he did a great job.
+
+wasteful:
+
+There was a wasteful amount of food from the dinner party.
+
+retire: retire from, retire year
+
+He lives in the countryside after retiring from work.
+
+maintain: maintain peace, maintain contact
+
+The two workers maintain the machine by checking and repairing it.
+
+whether: thether or not
+
+She hasn't decided whether to eat this cake or not.
+
+gardening
+
+The family is doing gardening work in the garden.
+
+cage: cage bird
+
+The bird is in the cage.
+
+encouragement: give encouragement
+
+The trainer offered words of encouragement to the girl as she was running.
+
+hopeless: feel hopeless
+
+After being caught by the monster,he felt hopeless.
+
+worldwide: worldwide market
+
+Worldwide communication has been made much easier through the internet.
